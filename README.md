@@ -34,3 +34,5 @@ The circuit and other details can be downloaded from the above attachment.
 Interested hobbyists may Email me for other details, PCB and programmed MCU and more info.
 
 I can send the PCB anywhere in the world using Registered INDIA POST.
+
+Pre Programmed MCU is available for purchase from me directly. I will provide discounts for bulk purchases. Do email me at hifiprojects@gmail.com if you have any questions.
