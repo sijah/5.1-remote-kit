@@ -1,0 +1,10 @@
+
+
+I've included several extra components for VU-Meter
+
+R5      = 220 Ohms
+R6, R9  = 100K
+R7, R8  = 330K
+C45, C46, C47, C48 = 1uF/25v
+D1, D2 = BAT85
+
